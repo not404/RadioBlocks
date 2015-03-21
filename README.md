@@ -31,6 +31,7 @@ please help out by a Pull Request with whatever code is needed to refresh or syn
 * [radioblock-c](https://github.com/not404/radioblock-c)
 * [radioblock-python](https://github.com/not404/radioblock-python)
 * [radioblock-simplemesh-firmware](https://github.com/not404/radioblock-simplemesh-firmware)
+* [radioblock-sniffer](https://github.com/not404/radioblock-sniffer)
 
 
 ### Authors and Contributors
