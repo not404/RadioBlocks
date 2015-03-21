@@ -7,7 +7,7 @@ have had a handful of these nifty devices sitting on a shelf waiting for the day
 Of course, with the original website "gone", it turned out to be an interesting challenge to scour the Internet for these original resources.
 
 Through the KickStarter Comments section, you will find that a fellow backer has published a personal archive of these documents 
-here: [randallsrus.com](www.randallsrus.com/Jeff/Electronics/RadioBlocks/)
+here: [randallsrus.com](http://www.randallsrus.com/Jeff/Electronics/RadioBlocks/)
 
 Furthermore, after some spelunking around in Google caches, and doing some reverse engineering of URLs, I have found that the ColoradoMicroDevices.com 
 website does indeed host the documents we're looking for -- it's just that the links have "moved" to somewhere unpublished.
